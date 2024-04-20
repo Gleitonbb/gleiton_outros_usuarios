@@ -86,3 +86,9 @@ botaoReceber03.addEventListener("click",(evt)=>{
 })
 
 // ------------------pontuacão total --------------------------------
+
+const botaoPtotal = document.querySelector("#botaoPtotal")
+
+const BuscarTotal = () =>{
+    const endpointTotal = ""
+}
